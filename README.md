@@ -1,12 +1,8 @@
-### Hello, I'm Lucca Menegatti 👋
+## Hello, I'm Lucca Menegatti 👋
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LuccaMenegatti&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=LuccaMenegatti&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaMenegatti&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=LuccaMenegatti&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=LuccaMenegatti&theme=dark&hide_border=false)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
