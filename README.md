@@ -1,6 +1,5 @@
 ## Hello, I'm Lucca Menegatti 👋
 
-### 📊 GitHub Stats:
 <div>
   <a href="https://github.com/LuccaMenegatti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuccaMenegatti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
