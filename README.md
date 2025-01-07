@@ -3,7 +3,7 @@
 ### 💻 About
 - Fascinated by programming.
 - I’m currently working with .NET Core and .NET ecosystem.
-- Databases: Pstrgree, Sql Server.
+- Databases: PostgreSQL, mySQL, Sql Server.
 - Tools: Azure Devops, GitHub, RabbitMQ.
 - Containers: Docker, Kubernetes.
 
