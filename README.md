@@ -1,18 +1,25 @@
-## Hello, I'm Lucca Menegatti 👋
+## Hello, my name is Lucca Menegatti 👋
 
-<div>
-  <a href="https://github.com/LuccaMenegatti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuccaMenegatti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaMenegatti&layout=compact&langs_count=5&theme=github_dark&hide_border=true" />
+### 💻 About
+- Fascinated by programming.
+- I’m currently working with .NET Core and .NET ecosystem.
+- Databases: Pstrgree, Sql Server.
+- Tools: Azure Devops, GitHub, RabbitMQ.
+- Containers: Docker, Kubernetes.
+
+### ⚙️ GitHub stats
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuccaMenegatti&show_icons=true&count_private=true&hide_border=true&title_color=41A8BF&icon_color=41A8BF&text_color=c9d1d9&bg_color=0d1117" alt="Luccamenegatti github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaMenegatti&layout=compact&hide_border=true&title_color=41A8BF&text_color=41A8BF&bg_color=0d1117" />
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+##
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,react,html,css,js,ts,php,dart,mysql,postgres,git,azure"/>
+  </a>
+</p>
 
 ##
 
@@ -21,7 +28,6 @@
   <a href="https://discord.gg/qcJu2bTn" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "menegatti.luccaantonio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-  
 
  
 
