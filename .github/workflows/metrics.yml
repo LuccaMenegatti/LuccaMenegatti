@@ -14,22 +14,21 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           user: LuccaMenegatti
-          template: classic     
-          base: header
+          template: classic
           config_timezone: America/Sao_Paulo
+          
+          base: "" 
           
           config_style: |
              background-color: #0d1117;
              color: #c9d1d9;
              h1, h2, h3 { color: #41A8BF; }
              .stat { color: #c9d1d9; }
-             
-             /* TRUQUE: Esconde a foto grande e o nome, deixando só os números */
-             .header .avatar { display: none !important; }
-             .header h1 { display: none !important; } /* Nome */
-             .header h2 { display: none !important; } /* Data de entrada */
-             .header { padding-bottom: 20px; } /* Ajusta espaçamento */
 
+          # --- Plugin: Introdução ---
+          plugin_introduction: yes
+          plugin_introduction_title: no 
+          
           # --- Plugin: Linguagens ---
           plugin_languages: yes
           plugin_languages_ignored: >-
