@@ -1,11 +1,13 @@
 ## Hello, my name is Lucca Menegatti 👋
 
 ### 💻 About
-- Fascinated by programming.
-- I’m currently working with .NET Core and .NET ecosystem.
-- Databases: PostgreSQL, mySQL, Sql Server.
-- Tools: Azure Devops, GitHub, RabbitMQ.
-- Containers: Docker, Kubernetes.
+- Passionate Fullstack Developer.
+- **Backend:** .NET Core, PHP (Laravel).
+- **Frontend:** React.js, Vue.js.
+- **Mobile:** Flutter (Dart).
+- **Databases:** PostgreSQL, MySQL, SQL Server, Oracle.
+- **Tools:** Azure DevOps, GitHub, RabbitMQ, Elasticsearch.
+- **Containers:** Docker, Kubernetes.
 
 ### ⚙️ GitHub stats
 <div align="left">
@@ -16,7 +18,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,html,css,js,react,php,flutter,dart,mysql,postgres,git,docker,kubernetes"/>
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,html,css,js,react,vue,php,laravel,flutter,dart,mysql,postgres,oracle,git,azure,docker,kubernetes,elasticsearch,rabbitmq"/>
   </a>
 </p>
 
