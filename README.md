@@ -8,14 +8,13 @@
 - Containers: Docker, Kubernetes.
 
 ### ⚙️ GitHub stats
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuccaMenegatti&show_icons=true&count_private=true&hide_border=true&title_color=41A8BF&icon_color=41A8BF&text_color=c9d1d9&bg_color=0d1117" alt="Luccamenegatti github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaMenegatti&layout=compact&hide_border=true&title_color=41A8BF&text_color=41A8BF&bg_color=0d1117" />
+<div align="left">
+  <img src="https://raw.githubusercontent.com/LuccaMenegatti/LuccaMenegatti/main/github-metrics.svg" alt="Metrics" width="60%">
 </div>
 
 ##
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,java,html,css,js,react,php,flutter,dart,mysql,postgres,git,docker,kubernetes"/>
   </a>
