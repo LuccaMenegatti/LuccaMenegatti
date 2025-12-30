@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Atualiza as 00:00 todos os dias
   schedule: [{cron: "0 0 * * *"}]
-  # Permite rodar manualmente na aba Actions
   workflow_dispatch:
-  # Roda a cada push na branch main
   push: {branches: ["main", "master"]}
 jobs:
   github-metrics:
@@ -16,10 +13,9 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # --- Configurações Principais ---
           user: LuccaMenegatti
-          template: classic
-          base: repositories
+          template: classic     
+          base: header
           config_timezone: America/Sao_Paulo
           
           config_style: |
@@ -27,6 +23,12 @@ jobs:
              color: #c9d1d9;
              h1, h2, h3 { color: #41A8BF; }
              .stat { color: #c9d1d9; }
+             
+             /* TRUQUE: Esconde a foto grande e o nome, deixando só os números */
+             .header .avatar { display: none !important; }
+             .header h1 { display: none !important; } /* Nome */
+             .header h2 { display: none !important; } /* Data de entrada */
+             .header { padding-bottom: 20px; } /* Ajusta espaçamento */
 
           # --- Plugin: Linguagens ---
           plugin_languages: yes
@@ -40,4 +42,4 @@ jobs:
           
           # --- Plugin: Calendário (Streak) ---
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year # Mostra 6 meses (fica menor que o anual)
+          plugin_isocalendar_duration: half-year
