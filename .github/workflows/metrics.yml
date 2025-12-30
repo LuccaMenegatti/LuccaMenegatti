@@ -14,23 +14,21 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Seu token secreto
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Opções gerais
+          # --- Configurações Principais ---
           user: LuccaMenegatti
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: repositories
           config_timezone: America/Sao_Paulo
           
-          # Cores (Sua paleta)
           config_style: |
              background-color: #0d1117;
              color: #c9d1d9;
              h1, h2, h3 { color: #41A8BF; }
              .stat { color: #c9d1d9; }
-             
-          # Plugin de Linguagens
+
+          # --- Plugin: Linguagens ---
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
@@ -40,6 +38,6 @@ jobs:
           plugin_languages_colors: "github"
           plugin_languages_details: bytes-size, percentage
           
-          # Plugin de Streak (Isométrico/Calendário)
+          # --- Plugin: Calendário (Streak) ---
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: half-year # Mostra 6 meses (fica menor que o anual)
